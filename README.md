@@ -14,9 +14,9 @@
 
 <p align="center">
     <br>
-    <strong>Hi user !<br>
-    I am just a Technomancer and cyberpunk fan,<br> 
-    Enjoy on my Git !</strong> <br>
+    <strong>Hi!<br>
+    I'm just a 15 year old kid,<br> 
+    having fun.</strong> <br>
     <br>
     </strong>
  
