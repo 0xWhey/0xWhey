@@ -15,8 +15,8 @@
 <p align="center">
     <br>
     <strong>Hi!<br>
-    I'm just a 15 year old kid,<br> 
-    having fun.</strong> <br>
+    I'm just a 15 year old kid having fun.<br> 
+    </strong> <br>
     <br>
     </strong>
  
