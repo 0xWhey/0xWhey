@@ -6,4 +6,4 @@
 ![Active](https://img.shields.io/badge/Discord-Whey%235000-5DDECB) 
 ![Active](https://img.shields.io/badge/%F0%9F%8C%8E-French%20%2F%20English-9cf)
 
-![alt text](https://media1.tenor.com/images/be4bf9840884c744738cabad42aa283b/tenor.gif?itemid=11058963)
+![alt text](https://media1.tenor.com/images/b7b05de1281a258425353588b191edac/tenor.gif?itemid=19603927)
