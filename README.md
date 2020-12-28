@@ -2,9 +2,13 @@
   🌙 Hi there, I'm whey.
 </h1>
 
+<hr>
+
 <p align='center'>
   I'm 15 years old and I have fun doing stupid things on my computer.
 </p>
+
+<hr>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -17,9 +21,13 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>  
 </p>
 
+<hr>
+
 <p align='center'>
   <img src="https://img.shields.io/badge/whey%239310%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
 </p>
+
+<hr>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xwhey&show_icons=true&include_all_commits=true&theme=radical" alt="0xwhey github stats" />
