@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-%23007ACC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 </p>
 
 <p align='center'>
