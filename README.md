@@ -1,5 +1,5 @@
 <h1 align='center'>
-  🌙 | Hi there, I'm whey.
+  🌙 Hi there, I'm whey.
 </h1>
 
 <p align='center'>
