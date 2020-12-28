@@ -2,8 +2,6 @@
   🌙 Hi there, I'm whey.
 </h1>
 
-<hr>
-
 <p align='center'>
   I'm 15 years old and I have fun doing stupid things on my computer.
 </p>
