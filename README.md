@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%3whey#9310%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/whey%239310%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   
 </p>
 
