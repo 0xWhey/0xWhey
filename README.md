@@ -28,7 +28,7 @@
 <hr>
 
 <p align='center'>
-<img src="https://i.imgur.com/AsuKUKn.gif"/>
+<img src="https://i.imgur.com/LSLgIng.gif"/>
 </p>
 
 <hr>
