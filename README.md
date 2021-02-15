@@ -34,6 +34,6 @@
 <hr>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xwhey&show_icons=true&include_all_commits=true&theme=radical" alt="0xwhey github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xwhey&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wh3y&show_icons=true&include_all_commits=true&theme=radical" alt="0xwhey github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh3y&layout=compact&theme=radical" />
 </p>
