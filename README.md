@@ -1,9 +1,9 @@
 <h1 align='center'>
-  🌙 Hi there, I'm whey.
+  🌺 Hi there, I'm whey.
 </h1>
 
 <p align='center'>
-  I'm 15 years old and I have fun doing stupid things on my computer.
+  I have fun doing stupid things on my computer.
 </p>
 
 <hr>
@@ -28,7 +28,7 @@
 <hr>
 
 <p align='center'>
-<img src="https://i.imgur.com/LSLgIng.gif"/>
+<img src="https://i.imgur.com/Y38luZp.jpg"/>
 </p>
 
 <hr>
