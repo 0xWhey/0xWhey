@@ -1,5 +1,5 @@
 <h1 align='center'>
-  🌺 Hi there, I'm whey.
+  📌 Hi there, I'm whey.
 </h1>
 
 <p align='center'>
@@ -27,7 +27,7 @@
 </p>
 
 <p align='center'>
-<img src="https://i.imgur.com/dYsSjDX.gif"/>
+<img src="https://i.imgur.com/LqaQI0M.gif"/>
 </p>
 
 <p align='center'>
