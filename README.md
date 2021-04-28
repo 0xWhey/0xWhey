@@ -1,13 +1,4 @@
-<h1 align='center'>
-  whey
-</h1>
-
-<p align='center'>
-  I have fun doing stupid things on my computer.
-</p>
-
 <hr>
-
 <p align='center'>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/csharp%20-896cd0.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -19,7 +10,6 @@
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>  
 </p>
-
 <hr>
 
 <p align='center'>
