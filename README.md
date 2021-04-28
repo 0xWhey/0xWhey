@@ -23,7 +23,7 @@
 <hr>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/whey%239310%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/ynss'%230212%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
 </p>
 
 <p align='center'>
