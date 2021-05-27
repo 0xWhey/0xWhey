@@ -16,7 +16,7 @@
 </p>
 
 <p align='center'>
-<img src="https://i.imgur.com/RBTf86T.gif"/>
+<img src="https://i.imgur.com/sWfBnXc.gif"/>
 </p>
 
 <p align='center'>
