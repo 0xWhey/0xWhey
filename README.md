@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/whey'%231200%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/whey%231200%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
   <a href="https://t.me/whey1337"><img src="https://img.shields.io/badge/@whey1337%20-%2317212B.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
